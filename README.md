@@ -1,2 +1,2 @@
 # improved-random-game
-Asimple game
+A simple game
